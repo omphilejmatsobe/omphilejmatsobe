@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @omphilejmatsobe
-- 👀 I’m interested in Frontend programming
-- 🌱 I’m currently learning Web3 development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me twitter:@therealohwjay
+##Hello There👋
 
-<!---
-omphilejmatsobe/omphilejmatsobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Omphile from South Africa, and I do Web Design as well as Blockchain Development. I enjoy both Frontend and Backend.
+I really enjoy exploring and learning languages and frameworks like Nodejs, Reactjs, Styled Components, Solidity.
+You can check out my twitter at www.twitter.com/therealohwjay .
+
+
