@@ -16,7 +16,7 @@
 🔗 You can check out my twitter at www.twitter.com/omphilejmatsobe.
 </div>
 <div align="center"> 
-  <a href="mailto:omphilejmatsobe@gmail.com">
+  <a href="mailto:omphilejmatsobe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/omphilejmatsobe" target="_blank">
