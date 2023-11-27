@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 
 <br/>
-##Hello There👋
 
-I'm Omphile from South Africa I am a software developer and Engineering Student.
+I'm Omphile from South Africa I am a software developer and Engineering Student. 
+I make cool software and games for an awesome digital experience.
 You can check out my twitter at www.twitter.com/omphilejmatsobe. 
