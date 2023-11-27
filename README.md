@@ -8,6 +8,8 @@
 
 <br/>
 
-<h4 align="center" style = "font-weight:200">I'm Omphile from South Africa I am a software developer and Engineering Student.</h3>
-<h4 align="center">I make cool software and games for an awesome digital experience.</h3>
-<h4 align="center">You can check out my twitter at www.twitter.com/omphilejmatsobe.</h3>
+<div align="center">
+👋 I'm Omphile from South Africa I am a software developer and Engineering Student.
+💻 I make cool software and games for an awesome digital experience.
+🔗 You can check out my twitter at www.twitter.com/omphilejmatsobe.
+
