@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,unity,react" />
-    <img src="https://skillicons.dev/icons?i=python,linux,bash,sql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,linux,bash,mysql" /><br>
 </div>
 
 <br/>
