@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,c#,unity,vs,react" />
+    <img src="https://skillicons.dev/icons?i=c,csharp,unity,vs,react" />
     <img src="https://skillicons.dev/icons?i=python,linux,bash,shell,sql" /><br>
 </div>
 
