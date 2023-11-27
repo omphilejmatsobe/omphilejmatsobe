@@ -25,16 +25,14 @@
   <a href="[https://omphilejmatobs](https://github.com/omphilejmatsobe/omphilejmatsobe)" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+</br>
+</br>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 </br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,unity,react" />
     <img src="https://skillicons.dev/icons?i=python,linux,bash,mysql" /><br>
 </div>
-
-<br/>
 
 
 
