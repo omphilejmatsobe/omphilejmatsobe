@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-👋 I'm Omphile from South Africa, I am a software developer and Engineering Student.
+ ⚒ I am a software developer and Engineering Student.
     
 💻 I make cool softwares and games for an awesome digital experience.
 
