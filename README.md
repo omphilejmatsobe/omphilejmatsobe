@@ -1,7 +1,7 @@
 /*<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omphilejmatsobe.omphilejmatsobe"/>*/
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=80%&height=70&duration=3200&lines=Hello!+👋,+I'm+Omphile+j+Matsobe.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3200&lines=Hello!+👋,+I'm+Omphile+j+Matsobe.;" />
 </h1>
 
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
