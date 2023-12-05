@@ -9,7 +9,7 @@
     
 💻 I make cool softwares and games for an awesome digital experience.
 
-🔗 You can check me on twitter @ www.twitter.com/omphilejmatsobe.
+🔗 You can check me on twitter at www.twitter.com/omphilejmatsobe.
 </div>
 <div align="center"> 
   <a href="mailto:omphilejmatsobe@gmail.com" target="_blank">
