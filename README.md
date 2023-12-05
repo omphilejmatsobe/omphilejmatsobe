@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=700&height=70&duration=3200&repeat=false&lines=Hello!+👋,+I'm+Omphile+J+Matsobe.;" />
-</h1>
+
 
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 
