@@ -17,7 +17,7 @@
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 </br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,unity,react" />
+    <img src="https://skillicons.dev/icons?i=c,unity,nodejs" />
     <img src="https://skillicons.dev/icons?i=python,bash,mysql" /><br>
 </div>
 
