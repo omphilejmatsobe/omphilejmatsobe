@@ -1,5 +1,3 @@
-
-
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 
 <br/>
@@ -9,7 +7,7 @@
     
 💻 I make cool softwares and games for an awesome digital experience.
 
-🔗 You can check me on twitter at www.twitter.com/omphilejmatsobe.
+🔗 You can check me on twitter at https://omphilejmatsobe.github.io/omphilejdev
 </div>
 <div align="center"> 
 
@@ -20,9 +18,7 @@
     <img src="https://skillicons.dev/icons?i=c,unity,nodejs" />
     <img src="https://skillicons.dev/icons?i=python,bash,mysql" /><br>
 </div>
-</br>
-<h3 align="center">🤖 Check-out My Portfolio 🤖</h3>
-<link align="center">https://omphilejmatsobe.github.io/omphilejdev/</link>
+
 
 
 
