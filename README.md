@@ -7,7 +7,7 @@
     
 💻 I make cool softwares and games for an awesome digital experience.
 
-🔗 You can check me on twitter at https://omphilejmatsobe.github.io/omphilejdev
+🔗 You can check me on portfolio: https://omphilejmatsobe.github.io/omphilejdev
 </div>
 <div align="center"> 
 
