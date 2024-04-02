@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Software Engineer from South Africa</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <br/>
 
