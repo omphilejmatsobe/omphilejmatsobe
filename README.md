@@ -5,7 +5,7 @@
 <div align="center">
  ⚒ I am a software developer and Engineering Student.
     
-💻 I build software, electronics and games for a cool digital experience.
+💻 I build softwares, electronics and games for a cool digital experience.
 
 🔗 You can check me on portfolio: https://omphilejmatsobe.github.io/omphilejdev
 </div>
