@@ -10,7 +10,3 @@
     <img src="https://skillicons.dev/icons?i=c,python,nodejs" />
     <img src="https://skillicons.dev/icons?i=linux,mysql,unity" /><br>
 </div>
-
-
-
-
