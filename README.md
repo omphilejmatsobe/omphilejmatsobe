@@ -1,14 +1,3 @@
-<h3 align="center">A passionate Software Engineer</h3>
-<br/>
-<div align="center"> 
-</br>
-</br>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,nodejs" />
-    <img src="https://skillicons.dev/icons?i=linux,mysql,unity" /><br>
-</div>
-
-
 
 <a href="https://hasherezade.net">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omphilejmatsobe&show_icons=true&line_height=33&count_private=true&theme=dark" alt="omphilejmatsobe's GitHub Stats" />
